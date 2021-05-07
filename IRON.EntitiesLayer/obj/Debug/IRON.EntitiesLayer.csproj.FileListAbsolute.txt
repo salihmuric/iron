@@ -1,0 +1,12 @@
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\IRON.EntitiesLayer.dll.config
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\IRON.EntitiesLayer.dll
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\IRON.EntitiesLayer.pdb
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\EntityFramework.dll
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\EntityFramework.xml
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\obj\Debug\IRON.EntitiesLayer.csprojAssemblyReference.cache
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\obj\Debug\IRON.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\obj\Debug\IRON.EntitiesLayer.csproj.CopyComplete
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\obj\Debug\IRON.EntitiesLayer.dll
+C:\Users\SALİH\Source\Repos\IRON\IRON.EntitiesLayer\obj\Debug\IRON.EntitiesLayer.pdb
