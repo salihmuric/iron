@@ -1,0 +1,17 @@
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\obj\Debug\Iron.DataAccess.csprojAssemblyReference.cache
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\obj\Debug\Iron.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.DataAccess.dll.config
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.DataAccess.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.DataAccess.pdb
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.Core.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.Entities.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.Core.pdb
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.Core.dll.config
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\Iron.Entities.pdb
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\obj\Debug\Iron.DataAccess.csproj.CopyComplete
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\obj\Debug\Iron.DataAccess.dll
+C:\Users\SALİH\Desktop\Iron\Iron.DataAccess\obj\Debug\Iron.DataAccess.pdb
